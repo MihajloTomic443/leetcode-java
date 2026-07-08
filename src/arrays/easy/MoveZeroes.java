@@ -1,4 +1,4 @@
-package arrays;
+package arrays.easy;
 
 /*
 LeetCode #283 - Move Zeroes

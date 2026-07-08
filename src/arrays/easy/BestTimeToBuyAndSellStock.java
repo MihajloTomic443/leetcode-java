@@ -1,4 +1,4 @@
-package arrays;
+package arrays.easy;
 /*
 LeetCode #121 - Best Time to Buy and Sell Stock
 

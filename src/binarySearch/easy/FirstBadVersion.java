@@ -1,4 +1,4 @@
-package binarySearch;
+package binarySearch.easy;
 
 /*
 LeetCode #278 - First Bad Version

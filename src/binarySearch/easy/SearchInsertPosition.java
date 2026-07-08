@@ -1,4 +1,4 @@
-package binarySearch;
+package binarySearch.easy;
 
 /*
 LeetCode #35 - Search Insert Position

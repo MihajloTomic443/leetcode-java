@@ -1,4 +1,4 @@
-package arrays;
+package arrays.easy;
 
 /*
 LeetCode #27 - Remove Element
