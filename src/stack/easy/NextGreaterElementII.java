@@ -1,9 +1,9 @@
-package Stack;
+package stack.easy;
 
 import java.util.Arrays;
 import java.util.Stack;
 
-/**
+/*
  * LeetCode 503 - Next Greater Element II
  *
  * Difficulty: Medium
